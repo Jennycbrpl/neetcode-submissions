@@ -1,6 +1,6 @@
 # ⚡ NeetCode Solutions — @Jennycbrpl
 
-> Curated coding interview solutions and algorithmic problem-solving journey, synced automatically from [NeetCode.io](https://neetcode.io).
+> Curated coding interview solutions and algorithmic problem-solving journey.
 
 ---
 
